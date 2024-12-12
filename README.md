@@ -1,5 +1,5 @@
 ### Hi Terry's the name 👋.
-I'm a youngish passionate software engineer born and raised in Florida. I like coding challenges, im interested in learning about game development and i'm interested in building websites for people. I have experience in Python, JavaScript, React, Redux, SQL, CSS and HTML as well as other technical concepts.
+I'm a young-ish passionate software engineer from Florida. I like coding challenges, im interested in learning about game development and building websites, and apps. I have experience in  React, Kotlin, Python, JavaScript, Redux, SQL, CSS, and HTML to name a few.
 
 
 <!--
