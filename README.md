@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bfa601ad-331b-496e-bd57-bb90a6d1f855)
+
 ### Hi Terry's the name 👋.
 I'm a young-ish passionate software engineer from Florida. I like coding challenges, im interested in learning about game development and building websites, and apps. I have experience in  React, Kotlin, Python, JavaScript, Redux, SQL, CSS, and HTML to name a few.
 
